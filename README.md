@@ -18,7 +18,7 @@ cd product_app
 ### 3. Clone Repository
 
 ```bash
-git clone <PRODUCT_REPOSITORY_URL> .
+git clone https://github.com/sahil-mane/product_remote_app.git .
 ```
 
 ### 4. Install Dependencies
